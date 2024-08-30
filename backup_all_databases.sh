@@ -1,6 +1,6 @@
 #!/bin/bash
 USER="root"
-PASSWORD="son123"
+PASSWORD="your-root-sql-passwd"
 OUTPUT_DIR="/home/db-bak"
 
 # Create the output directory if it doesn't exist
